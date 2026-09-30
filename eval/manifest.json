@@ -1,0 +1,22 @@
+[
+  { "file": "01-okinawa-seafood-menu.jpg", "lang": "ja" },
+  { "file": "02-tokyo-restaurant-facade.jpg", "lang": "ja" },
+  { "file": "03-tokyo-sweet-shop.jpg", "lang": "ja" },
+  { "file": "04-taipei-shop-sign.jpg", "lang": "zh" },
+  { "file": "05-beijing-duck-restaurant-sign.jpg", "lang": "zh" },
+  { "file": "06-hongkong-restaurant-sign.jpg", "lang": "zh" },
+  { "file": "07-paris-champs-elysees-sign.jpg", "lang": "fr" },
+  { "file": "08-paris-rue-saint-honore-sign.jpg", "lang": "fr" },
+  { "file": "09-france-restaurant-menu-board.jpg", "lang": "fr" },
+  { "file": "10-madrid-menu-del-dia.jpg", "lang": "es" },
+  { "file": "11-madrid-restaurant-menu.jpg", "lang": "es" },
+  { "file": "12-madrid-jamon-menu.jpg", "lang": "es" },
+  { "file": "13-berlin-street-sign.jpg", "lang": "de" },
+  { "file": "14-rothenburg-shop-sign.jpg", "lang": "de" },
+  { "file": "15-rome-shop-sign.jpg", "lang": "it" },
+  { "file": "16-livorno-tobacco-shop-sign.jpg", "lang": "it" },
+  { "file": "17-seoul-starbucks-sign.jpg", "lang": "ko" },
+  { "file": "18-seoul-myeongdong-shop-signs.jpg", "lang": "ko" },
+  { "file": "19-moscow-bakery-ghost-sign.jpg", "lang": "ru" },
+  { "file": "20-moscow-sewing-shop-sign.jpg", "lang": "ru" }
+]

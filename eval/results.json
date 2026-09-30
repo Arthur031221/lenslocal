@@ -1,0 +1,636 @@
+{
+  "results": [
+    {
+      "file": "01-okinawa-seafood-menu.jpg",
+      "lang": "ja",
+      "regionsFound": 1,
+      "ocrMs": 19791.200000047684,
+      "translateMs": 98.19999992847443,
+      "totalMs": 19939.5,
+      "regions": [
+        {
+          "text": "REDIMINOTI.PRO",
+          "translated": "REDIMINOI.PRO"
+        }
+      ]
+    },
+    {
+      "file": "02-tokyo-restaurant-facade.jpg",
+      "lang": "ja",
+      "regionsFound": 1,
+      "ocrMs": 10094.100000023842,
+      "translateMs": 22.199999928474426,
+      "totalMs": 10182.299999952316,
+      "regions": [
+        {
+          "text": "2",
+          "translated": "2"
+        }
+      ]
+    },
+    {
+      "file": "03-tokyo-sweet-shop.jpg",
+      "lang": "ja",
+      "regionsFound": 1,
+      "ocrMs": 10306.399999976158,
+      "translateMs": 39.60000002384186,
+      "totalMs": 10404.600000023842,
+      "regions": [
+        {
+          "text": "米",
+          "translated": "- rice."
+        }
+      ]
+    },
+    {
+      "file": "04-taipei-shop-sign.jpg",
+      "lang": "zh",
+      "regionsFound": 0,
+      "ocrMs": 18918.700000047684,
+      "translateMs": 0,
+      "totalMs": 18959.700000047684,
+      "regions": []
+    },
+    {
+      "file": "05-beijing-duck-restaurant-sign.jpg",
+      "lang": "zh",
+      "regionsFound": 2,
+      "ocrMs": 10452.399999976158,
+      "translateMs": 85.69999992847443,
+      "totalMs": 10598.899999976158,
+      "regions": [
+        {
+          "text": "美羹義群",
+          "translated": "The Pride."
+        },
+        {
+          "text": "T",
+          "translated": "T."
+        }
+      ]
+    },
+    {
+      "file": "06-hongkong-restaurant-sign.jpg",
+      "lang": "zh",
+      "regionsFound": 0,
+      "ocrMs": 19080.699999928474,
+      "translateMs": 0,
+      "totalMs": 19132.899999976158,
+      "regions": []
+    },
+    {
+      "file": "07-paris-champs-elysees-sign.jpg",
+      "lang": "fr",
+      "regionsFound": 4,
+      "ocrMs": 11111.5,
+      "translateMs": 180,
+      "totalMs": 11349.800000071526,
+      "regions": [
+        {
+          "text": "8e Arrt",
+          "translated": "8th Judgment"
+        },
+        {
+          "text": "AVENUE",
+          "translated": "FUTURE"
+        },
+        {
+          "text": "DES",
+          "translated": "THE"
+        },
+        {
+          "text": "CHAMPS ELYSEES",
+          "translated": "ELYSEE CHAMPS"
+        }
+      ]
+    },
+    {
+      "file": "08-paris-rue-saint-honore-sign.jpg",
+      "lang": "fr",
+      "regionsFound": 3,
+      "ocrMs": 10945.5,
+      "translateMs": 139.39999997615814,
+      "totalMs": 11143.199999928474,
+      "regions": [
+        {
+          "text": "1. ARR.",
+          "translated": "1. ARR."
+        },
+        {
+          "text": "RUE",
+          "translated": "EU"
+        },
+        {
+          "text": "ST. HONORE",
+          "translated": "ST. HONORY"
+        }
+      ]
+    },
+    {
+      "file": "09-france-restaurant-menu-board.jpg",
+      "lang": "fr",
+      "regionsFound": 9,
+      "ocrMs": 14258.300000071526,
+      "translateMs": 1093.8000000715256,
+      "totalMs": 15427.600000023842,
+      "regions": [
+        {
+          "text": "Dévalce de Chaire de Naytay",
+          "translated": "Naytay Chair Divalce"
+        },
+        {
+          "text": "en Goute d'amand de",
+          "translated": "in almond goute"
+        },
+        {
+          "text": "la grondé 15,5,0",
+          "translated": "the ragged 15,5,0"
+        },
+        {
+          "text": "* Tabouet de Félil epeantres",
+          "translated": "* Félil eceantres Tabouet"
+        },
+        {
+          "text": "*tomate et tloz3aella di",
+          "translated": "*tomate and tloz3aella di"
+        },
+        {
+          "text": "duffola lagrondd A3,0",
+          "translated": "duffola lagrondd A3.0"
+        },
+        {
+          "text": "*hilis d'Hirondelle *assognes au four A9s",
+          "translated": "* Hirondelle's muskets *A9s oven assacks"
+        },
+        {
+          "text": "10,5g *Pairé fraiche aux chumigres Jammon Cue",
+          "translated": "10.5g *Few-fried chamigres Jammon Cue"
+        },
+        {
+          "text": "* Cote d'agneau du /ays A5.0 10,50",
+          "translated": "* Lamb's grade of the A5.0 10.50"
+        }
+      ]
+    },
+    {
+      "file": "10-madrid-menu-del-dia.jpg",
+      "lang": "es",
+      "regionsFound": 11,
+      "ocrMs": 13465.799999952316,
+      "translateMs": 871.2000000476837,
+      "totalMs": 14397.700000047684,
+      "regions": [
+        {
+          "text": "Manu Espaiol",
+          "translated": "Manu Espaiol"
+        },
+        {
+          "text": "Primero:",
+          "translated": "First:"
+        },
+        {
+          "text": "Eusalada Mixta.",
+          "translated": "Mixed Eusalada."
+        },
+        {
+          "text": "Espamagos ci MayOvesa.",
+          "translated": "Espamagos ci MayOvesa."
+        },
+        {
+          "text": "Amor a la cubana.",
+          "translated": "Love the Cuban."
+        },
+        {
+          "text": "Sagudos:",
+          "translated": "Sagutes:"
+        },
+        {
+          "text": "Calawares a la Roman.",
+          "translated": "Calawares to the Roman."
+        },
+        {
+          "text": "Dorada a la plancha.",
+          "translated": "Grilled."
+        },
+        {
+          "text": "Ciuto de lomoc patatu.",
+          "translated": "Ciuto de lomoc patatu."
+        },
+        {
+          "text": "4 Pollo a la brasa.",
+          "translated": "4 Grilled chicken."
+        },
+        {
+          "text": "Postrr beaeda 10:50",
+          "translated": "Postrr beeeda 10:50"
+        }
+      ]
+    },
+    {
+      "file": "11-madrid-restaurant-menu.jpg",
+      "lang": "es",
+      "regionsFound": 18,
+      "ocrMs": 20410.899999976158,
+      "translateMs": 3488.7999999523163,
+      "totalMs": 23972.399999976158,
+      "regions": [
+        {
+          "text": "RIA",
+          "translated": "RIA"
+        },
+        {
+          "text": "EL DIARIO",
+          "translated": "THE DIARI"
+        },
+        {
+          "text": "FOR VEGGINS: VEGETABLE LASAGNA",
+          "translated": "FOR VEGGINS: VEGETABLE LAAGNA"
+        },
+        {
+          "text": "SALADS",
+          "translated": "SALADS"
+        },
+        {
+          "text": "CAMADES",
+          "translated": "CAMADES"
+        },
+        {
+          "text": "PAT VEGANOS. ERADUAS DELADED AND BILLED PEPERS DELANDED WITH PEPER ERADURAS",
+          "translated": "PAT VEGANS. ERADUAS DELADED AND BILID PEPERS DELANDED PORTO"
+        },
+        {
+          "text": "ENSAGLADAS CAMAPES",
+          "translated": "TESTINGS CAMAPES"
+        },
+        {
+          "text": "CAMASAS. WITH WITTERES",
+          "translated": "CAMASAS."
+        },
+        {
+          "text": "CAMAROS. WITH PAPERES",
+          "translated": "CAMAROS."
+        },
+        {
+          "text": "CAMPAES. WITH BONDAE",
+          "translated": "CAMPAES."
+        },
+        {
+          "text": "GRILLED TOOTHES CAMPS. WITH A WITERES CAMPES. OF BONDS. WITH CUTTERES.",
+          "translated": "GR/LID TOOTHES CAMPS........................................... "
+        },
+        {
+          "text": "CAMBES. AND BONDE. WITH THE BONDOES. CATAROS, WITH BANDS. AND CUTTES.",
+          "translated": "CHANGES. AND BONDE. † THE BONDOES. CATAROS, ΒANDS. AND CUTTES."
+        },
+        {
+          "text": "COTTERES, WITH COTTERE, AND BOTTERS. AND PUTTERS.",
+          "translated": "COTTERES, cott COTTERE, AND BOTTERS. AND PUTTERS."
+        },
+        {
+          "text": "CATTERES OF BOTTONS. WITH TOTTONES.",
+          "translated": "CATERES OF BOTTONS. ATTENDING TOTTONES."
+        },
+        {
+          "text": "CATURAS, AND POTTERTES, AND COTTONE.",
+          "translated": "CATEGORIES, AND POTTERTES, AND COTTONE."
+        },
+        {
+          "text": "CATROS. AND FOTTERED. AND THE BOTONES.",
+          "translated": "CATROS. AND FOTTERED. AND THE BOTONS."
+        },
+        {
+          "text": "CATUAS. AND TOTTER. AND A CUTTONS, AND THE CUTS.",
+          "translated": "CATUAS. AND TOTTER. AND TO CUTTONS, AND THE CUTS."
+        },
+        {
+          "text": "CATATOES.",
+          "translated": "CATATOES."
+        }
+      ]
+    },
+    {
+      "file": "12-madrid-jamon-menu.jpg",
+      "lang": "es",
+      "regionsFound": 33,
+      "ocrMs": 20599.199999928474,
+      "translateMs": 1612.2000000476837,
+      "totalMs": 22286.200000047684,
+      "regions": [
+        {
+          "text": "COSSIAN MIXIT",
+          "translated": "COSSIAN MIXIT"
+        },
+        {
+          "text": "BOCADILLO LONO",
+          "translated": "LONE BOCADE"
+        },
+        {
+          "text": "Muse de Jelhom",
+          "translated": "Muse de Jelhom"
+        },
+        {
+          "text": "2.5.0",
+          "translated": "2.5.0"
+        },
+        {
+          "text": "1.0.0",
+          "translated": "1.0.0"
+        },
+        {
+          "text": "MEMIEL DIA",
+          "translated": "MEMIEL DIA"
+        },
+        {
+          "text": "2.2.0",
+          "translated": "2.2.0"
+        },
+        {
+          "text": "BARADILO",
+          "translated": "BARADILO"
+        },
+        {
+          "text": "1.5,0.00",
+          "translated": "1.5.0.00"
+        },
+        {
+          "text": "1.00.00,0,0",
+          "translated": "1.00.00.0.0"
+        },
+        {
+          "text": "1.50.00",
+          "translated": "1.50.00"
+        },
+        {
+          "text": "1.10.00",
+          "translated": "1.10.00"
+        },
+        {
+          "text": "1.01.00",
+          "translated": "1.01.00"
+        },
+        {
+          "text": "1.000,000.000 1,00.000.00",
+          "translated": "1,0000010 1.00.000.00"
+        },
+        {
+          "text": "1.11.00",
+          "translated": "1.11.00"
+        },
+        {
+          "text": "1.12.00",
+          "translated": "1.12.00"
+        },
+        {
+          "text": "1.30.00",
+          "translated": "1.30.00"
+        },
+        {
+          "text": "1.25.00",
+          "translated": "1.25.00"
+        },
+        {
+          "text": "1.60.00 1.20.00",
+          "translated": "1.60.00 1.20.00"
+        },
+        {
+          "text": "1.6.00",
+          "translated": "1 6.00"
+        },
+        {
+          "text": "1,000,00",
+          "translated": "1.000,00"
+        },
+        {
+          "text": "1.90.00",
+          "translated": "1.90.00"
+        },
+        {
+          "text": "1.80.00",
+          "translated": "1.80.00"
+        },
+        {
+          "text": "1,0-00.50",
+          "translated": "1,0-00.50"
+        },
+        {
+          "text": "1.9.00",
+          "translated": "1.9 per cent"
+        },
+        {
+          "text": "1.8.00",
+          "translated": "1.8.00"
+        },
+        {
+          "text": "1.16.00",
+          "translated": "1.16.00"
+        },
+        {
+          "text": "1.7.00 1.1.40.00",
+          "translated": "1.7.00 1.1.40.00"
+        },
+        {
+          "text": "1,6.50,000",
+          "translated": "1,6.50,000"
+        },
+        {
+          "text": "1.4.00",
+          "translated": "1.400"
+        },
+        {
+          "text": "1.75.00 1,8.50",
+          "translated": "1.75.00 1.8.50"
+        },
+        {
+          "text": "1-00,000-00",
+          "translated": "1-00,000-00"
+        },
+        {
+          "text": "1.2,000",
+          "translated": "12,000"
+        }
+      ]
+    },
+    {
+      "file": "13-berlin-street-sign.jpg",
+      "lang": "de",
+      "regionsFound": 2,
+      "ocrMs": 10788,
+      "translateMs": 80.5,
+      "totalMs": 10909.5,
+      "regions": [
+        {
+          "text": "Wallstraße",
+          "translated": "Wall Street"
+        },
+        {
+          "text": "66 - 79",
+          "translated": "66 - 79"
+        }
+      ]
+    },
+    {
+      "file": "14-rothenburg-shop-sign.jpg",
+      "lang": "de",
+      "regionsFound": 1,
+      "ocrMs": 10847.200000047684,
+      "translateMs": 78.19999992847443,
+      "totalMs": 10991,
+      "regions": [
+        {
+          "text": "Hasi's Laden",
+          "translated": "Hasi's shop"
+        }
+      ]
+    },
+    {
+      "file": "15-rome-shop-sign.jpg",
+      "lang": "it",
+      "regionsFound": 2,
+      "ocrMs": 11991.399999976158,
+      "translateMs": 127.39999997615814,
+      "totalMs": 12199.700000047684,
+      "regions": [
+        {
+          "text": "FORMAGG!",
+          "translated": "Fortagg!"
+        },
+        {
+          "text": "Roma 1950",
+          "translated": "Rome 1950"
+        }
+      ]
+    },
+    {
+      "file": "16-livorno-tobacco-shop-sign.jpg",
+      "lang": "it",
+      "regionsFound": 7,
+      "ocrMs": 15704.299999952316,
+      "translateMs": 578.8999999761581,
+      "totalMs": 16364.100000023842,
+      "regions": [
+        {
+          "text": "RIV.N",
+          "translated": "RIV.N"
+        },
+        {
+          "text": "5",
+          "translated": "5"
+        },
+        {
+          "text": "REPUBLIC TALIANA",
+          "translated": "TALIAN REPUBLIC"
+        },
+        {
+          "text": "SALIE",
+          "translated": "ROOMS"
+        },
+        {
+          "text": "TABACCHI",
+          "translated": "TOBACCO"
+        },
+        {
+          "text": "NAZIONALI-ESTERI",
+          "translated": "NATIONAL-EXTERNAL"
+        },
+        {
+          "text": "VALORI BOLLATI",
+          "translated": "BULLETED VALUES"
+        }
+      ]
+    },
+    {
+      "file": "17-seoul-starbucks-sign.jpg",
+      "lang": "ko",
+      "regionsFound": 1,
+      "ocrMs": 12358.300000071526,
+      "translateMs": 223.19999992847443,
+      "totalMs": 12638.299999952316,
+      "regions": [
+        {
+          "text": "STARBUCKS COFFEE",
+          "translated": "It's good to know that you're not gonna be able to do this."
+        }
+      ]
+    },
+    {
+      "file": "18-seoul-myeongdong-shop-signs.jpg",
+      "lang": "ko",
+      "regionsFound": 6,
+      "ocrMs": 16183.5,
+      "translateMs": 684.3999999761581,
+      "totalMs": 16953.899999976158,
+      "regions": [
+        {
+          "text": "MONEY Exchange 美羾義羣群羡羛羓羘 MONEY EXCHANGE",
+          "translated": "MC / E."
+        },
+        {
+          "text": "776-827-0770-8884-8927 EUR",
+          "translated": "776+27-0770-8884-8927/878R"
+        },
+        {
+          "text": "Money Exchange Money Exchang",
+          "translated": "It's not a good idea."
+        },
+        {
+          "text": "Money EXchang",
+          "translated": " exerciseag"
+        },
+        {
+          "text": "MONEY",
+          "translated": "MOM 105"
+        },
+        {
+          "text": "EXCHANGE",
+          "translated": "[Cameron] Mm-hmm."
+        }
+      ]
+    },
+    {
+      "file": "19-moscow-bakery-ghost-sign.jpg",
+      "lang": "ru",
+      "regionsFound": 4,
+      "ocrMs": 20043.099999904633,
+      "translateMs": 2745.5,
+      "totalMs": 22832.799999952316,
+      "regions": [
+        {
+          "text": "METAQOH.RU С ТА -С. С - С:Р-Р - РО-М-О - МА МеТ-ЛА. С. М- Р- М С.. С \"Р С\" Со-Т - Т- Т Р Р ф-И-В-Ы-К-Е-БА \"С -Р GlowSubs",
+          "translated": "METAQOH.60 TA - S.S.S. - C:R - R - R - R - M - O - MA ME - M M S. C - R - S - T - T - R F-I - E-BA \"S - R G-17Subs\""
+        },
+        {
+          "text": "СВАЗНОН",
+          "translated": "- I'm not sure."
+        },
+        {
+          "text": "МТИТ",
+          "translated": "CITI"
+        },
+        {
+          "text": "СвЯЗ НА НовН ЯО СТ С С сВ С.А цА.Н С,РА, С-А-Н-С- С",
+          "translated": "The new yau c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c c"
+        }
+      ]
+    },
+    {
+      "file": "20-moscow-sewing-shop-sign.jpg",
+      "lang": "ru",
+      "regionsFound": 2,
+      "ocrMs": 14533,
+      "translateMs": 110.5,
+      "totalMs": 14746.399999976158,
+      "regions": [
+        {
+          "text": "ATEAGE",
+          "translated": " boreal"
+        },
+        {
+          "text": "ДИМСТА",
+          "translated": "DIMCT"
+        }
+      ]
+    }
+  ],
+  "wallClockMs": 670271,
+  "device": "auto"
+}
