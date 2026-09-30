@@ -75,6 +75,11 @@ Eval harness (re-measures accuracy and timing against `eval/photos/`): `npm run 
 
 **What happens to my photo?** Nothing leaves the device. There is no server component to this app at all, it is a static site. The only network traffic is the one-time model weight download from the Hugging Face CDN.
 
+## Related projects
+
+- [slopblock](https://github.com/Arthur031221/slopblock): Another on-device browser tool with the same no-network guarantee, feed filtering instead of camera translation.
+- [snipmd](https://github.com/Arthur031221/snipmd): Local OCR on a desktop instead of a browser, the same idea of reading text off an image without uploading it.
+
 ## Contributing and license
 
 See `CONTRIBUTING.md`. MIT, copyright 2026 Arthur.
